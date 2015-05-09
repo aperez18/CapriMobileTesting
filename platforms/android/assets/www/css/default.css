@@ -1,0 +1,39 @@
+.ui-page {
+    background-color: #B69A7A;
+}
+
+.capriLogo {
+    width: 220px;
+    height: 110px;
+    margin-top: 35px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.company-test {
+    text-align: center;
+}
+
+#jumbo-index {
+    margin-top: 25px;
+    margin-bottom: 75px;
+    background-color: #FFFFE1;
+}
+
+#jumbo-main {
+    margin-top: 25px;
+    margin-bottom: 75px;
+    background-color: #FFFFE1;
+}
+
+#jumbo-upload {
+    margin-top: 25px;
+    margin-bottom: 75px;
+    background-color: #FFFFE1;
+}
+
+.mobile-header {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
